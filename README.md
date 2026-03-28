@@ -44,8 +44,7 @@ Benefits:
 - predictable communication
 - easier long-term reference
 
-### 📸 Insert Screenshot Here
-![DHCP vs Static Overview](dhcp-vs-static.png)
+![DHCP vs Static Overview](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20121759.png)
 
 ---
 
@@ -64,7 +63,6 @@ Rebuilt the network from memory using:
 - 1 Switch
 - 2 PCs
 
-### 📸 Insert Screenshot Here
 ![Network Topology](topology.png)
 
 ---

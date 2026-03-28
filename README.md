@@ -57,7 +57,7 @@ Static IP stays fixed and predictable.
 
 ---
 
-## 🧪 Lab Setup
+## Lab Setup
 Rebuilt the network from memory using:
 - 1 Router
 - 1 Switch
@@ -131,8 +131,7 @@ As a result, communication failed because:
 - PC0 remained in 192.168.1.x
 - PC1 was now in 192.168.2.x
 
-### 📸 Insert Screenshot Here
-![Failed Ping Test](ping-failure.png)
+![Failed Ping Test](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20113355.png)
 
 ---
 

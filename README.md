@@ -93,7 +93,7 @@ no shutdown
 ### PC0 → DHCP
 Configured PC0 to receive its IP address automatically through DHCP.
 
-![PC0 DHCP Assignment](pc0-dhcp.png)
+![PC0 DHCP Assignment](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20112942.png)
 
 ---
 

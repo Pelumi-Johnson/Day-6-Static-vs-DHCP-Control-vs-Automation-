@@ -84,8 +84,7 @@ interface gigabitEthernet 0/0
 ip address 192.168.1.1 255.255.255.0  
 no shutdown  
 
-### 📸 Insert Screenshot Here
-![Router DHCP Config](router-dhcp-config.png)
+![Router DHCP Config](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20112930.png)
 
 ---
 
@@ -94,7 +93,6 @@ no shutdown
 ### PC0 → DHCP
 Configured PC0 to receive its IP address automatically through DHCP.
 
-### 📸 Insert Screenshot Here
 ![PC0 DHCP Assignment](pc0-dhcp.png)
 
 ---

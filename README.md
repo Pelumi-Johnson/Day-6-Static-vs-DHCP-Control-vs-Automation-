@@ -63,7 +63,7 @@ Rebuilt the network from memory using:
 - 1 Switch
 - 2 PCs
 
-![Network Topology](topology.png)
+![Network Topology](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20112555.png)
 
 ---
 

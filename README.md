@@ -104,7 +104,6 @@ Configured PC1 manually with:
 - Subnet Mask: 255.255.255.0
 - Default Gateway: 192.168.1.1
 
-### 📸 Insert Screenshot Here
 ![PC1 Static Configuration](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20113123.png)
 
 ---
@@ -117,8 +116,7 @@ ping 192.168.1.50
 
 Communication was successful because both devices were in the same network and correctly configured.
 
-### 📸 Insert Screenshot Here
-![Successful Ping Test](ping-success.png)
+![Successful Ping Test](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20113205.png)
 
 ---
 
@@ -138,7 +136,7 @@ As a result, communication failed because:
 
 ---
 
-## 🧠 What This Lab Showed
+## What This Lab Showed
 This lab demonstrated a real-world network scenario where:
 - some devices receive addresses automatically
 - some devices use permanent manual addressing
@@ -147,7 +145,7 @@ This is common in enterprise environments because different device roles require
 
 ---
 
-## 🧠 Key Concepts Learned
+## Key Concepts Learned
 - DHCP is useful for automatic IP assignment on end-user devices
 - Static IP addressing is important for critical devices that require consistency
 - DHCP and static IP addressing can coexist in the same network

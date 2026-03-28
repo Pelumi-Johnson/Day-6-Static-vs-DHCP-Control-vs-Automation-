@@ -105,7 +105,7 @@ Configured PC1 manually with:
 - Default Gateway: 192.168.1.1
 
 ### 📸 Insert Screenshot Here
-![PC1 Static Configuration](pc1-static.png)
+![PC1 Static Configuration](https://github.com/Pelumi-Johnson/Day-6-Static-vs-DHCP-Control-vs-Automation-/blob/main/Screenshot%202026-03-28%20113123.png)
 
 ---
 

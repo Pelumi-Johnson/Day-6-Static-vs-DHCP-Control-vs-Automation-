@@ -1,4 +1,4 @@
-# 🖧 Day 6 | Static vs DHCP (Control vs Automation)
+# 🖧 Static vs DHCP (Control vs Automation)
 
 ## 🎯 Objective
 Understand when to use DHCP, when to use static IP addressing, and why real networks often use both together.
